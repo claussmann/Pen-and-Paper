@@ -20,3 +20,7 @@ Wenngleich der Schamane für Frieden einsteht und Konflikte gewaltfrei lösen m�
 ## Bewaffnung
 
 - **Goldene Sichel:** Ein gebogenes langes Messer zum Schneiden von Kräutern.
+
+## Rüstung
+
+*keine*
