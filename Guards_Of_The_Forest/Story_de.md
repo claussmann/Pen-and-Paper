@@ -43,3 +43,22 @@ Im Haus des Häuptlings. Es ist schimmriges Licht. Bier steht auf dem Tisch. Der
 - *Sie können durchs geheime Tor einbrechen (wenn sie es kennen). Sie müssen unbemerkt bleiben, da die Festung jederzeit von 50 kampferfahrenen Soldaten bemannt wird.*
 - *Sie können die Aufmerksamkeit des Burgherren mit Zaubertricks auf sich ziehen. Er wird den Schamanen bitten die geheimen Dokumente zu entschlüsseln.*
 
+
+## Die geheimen Dokumente
+
+*Vermutlich stoßen die Helden irgendwann auf die geheimen Dokumente. Diese enthalten folgende Informationen, die vom Schamanen entschlüsselt werden können:*
+
+- *Das Elexir des Lebens kann mit dem Ansatz aus den Papieren nicht umgesetzt werden. Das hat der damalige Magier selbst bereits erkannt, aber verheimlicht.*
+- *Der Magier hat dafür Elexire mit Ähnlichen Wirkungen entwickelt: Ein Schönheitstrank kann die Haut glätten; ein Trank wirkt gegen Gelenkschmerzen; ein Trank stärkt die Muskeln und Vitalität.*
+- *Die Tränke sind gefährlich zu brauen. Nur kleine Fehler bei der Dosierung haben zur Folge, dass die Wirkung zwar zunächts einsetzt, aber nach einigen Tagen tödliche Nebenwirkungen zeigt. So kann sich die geglättete Haut ablösen, die Knochen werden weich, oder die Muskeln werden zu groß und sterben ab.*
+- *Ein Rezept sticht noch heraus: Es ist ein Trank, der einen Krieger für einige Minuten nahezu unbesiegbar macht. Ein Krieger hat damit zusätzlich +5 auf alle Checks (auch Angriff), +2 auf AC, und jeder Treffer von ihm ist automatisch kritisch.*
+- *Der Schamane wäre in der Lage alle Tränke ordnungsgemäß zu brauen.*
+
+
+## Mögliche Ausgänge (Beispiel)
+
+- *Der Schamane hilft dem Burgherrn beim brauen des Tranks und versucht so um Frieden zu verhandeln.*
+- *Der Schamane gibt vor, beim Brauen des Tranks zu helfen und vergiftet den Burgherren stattdessen damit.*
+- *Die Helden versuchen gegen die Soldaten zu kämpfen und die Burg einzunehmen. Falls sie den Trank für die "Unbesiegbarkeit" haben, kann dies auch gelingen. Ansonsten werden die Helden sterben oder gefangen genommen.*
+- *Die Helden kehren zum Stamm zurück und schlagen eine Gerilla-Taktick vor.*
+- *Die Helden holen Hilfe von ihrem Stamm (und/oder Verbündeten) und greifen die Burg an. Dies kann Erfolg haben.*
