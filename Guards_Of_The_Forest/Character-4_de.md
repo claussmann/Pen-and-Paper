@@ -1,6 +1,6 @@
 # Leibwächter
 
-Der Leibwächter schützt normalerweise dden Häuptling. Da er ihn ständig begleitet, kennt er die Angelegenheiten, die den Häuptling beschäftigen recht gut. Er ist bestens ausgerüstet und ein exzellenter Schwertkämpfer. Für seinen Stamm eigentlich untypisch, hat er eine leichte Metallrüstung und ein Schild. Dies ist aber wichtig, da er den Häuptling notfalls mit seinem Körper schützen muss. Der Leibwächter ist treu und will die Mission unbedingt zur Zufriedenheit des Häuptlings erledigen.
+Der Leibwächter schützt normalerweise den Häuptling. Da er ihn ständig begleitet, kennt er die Angelegenheiten, die den Häuptling beschäftigen recht gut. Er ist bestens ausgerüstet und ein exzellenter Schwertkämpfer. Für seinen Stamm eigentlich untypisch, hat er eine leichte Metallrüstung und ein Schild. Dies ist aber wichtig, da er den Häuptling notfalls mit seinem Körper schützen muss. Der Leibwächter ist treu und will die Mission unbedingt zur Zufriedenheit des Häuptlings erledigen.
 
 ## Scores
 
