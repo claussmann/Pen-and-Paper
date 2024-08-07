@@ -26,6 +26,11 @@ Im Haus des Häuptlings. Es ist schimmriges Licht. Bier steht auf dem Tisch. Der
 *Bron:* Ihr lieben Freunde! Die Lage ist ernst. Wir können nicht mehr warten. Die Männer in ihren eisernen Kleidern holzen immer mehr von unserem kostbaren Wald ab. Sie vertreiben das Wild. Sie stören unsere Zeremonien. Schänden Denkmale der Götter. Zuletzt töteten Sie gar meinen geliebten Bruder. Er war immer sehr heißblütig... hätte er sich doch nicht mit ihnen angelegt. Aber er hatte Recht: Wir müssen ihnen einhalt gebieten. Auf die eine oder andere Art. Ich habe euch einberufen, damit ihr herausfindet was sie da tun. Findet möglichkeiten zu verhandeln. Findet ihre Schwachstellen. Und bringt ein Ende zu diesen Schändungen. Ihr habt meine Vollmacht mit ihnen eine geeignete Lösung zu finden. Und wenn es an einem Kampf nicht vorbei führt, so werden wir auch diesen Weg gehen. Druide, Du bist der klügste Mensch, den ich kenne. Führe diese Truppe an. Haltet die Mission geheim!
 
 
+## Den Göttern Opfern
+
+*Die Helden können den Göttern ein Opfer darbringen um um Unterstützung zu bitten. Falls sie das tun, werden sie im Wald auf wilde Tiere treffen, die Menschen angreifen (insbesondere die Holzfäller). Diese Tiere können immer wieder während der Story auftauchen.*
+
+
 ## Auf dem Weg
 
 *Ein Wanderer namens **Hermes** kommt den Weg im Wald entlang. Er bemerkt die Helden zunächst nicht und singt laut ein Lied. Die Helden können den Wanderer überraschen, bekämpfen, begrüßen oder gefangen nehmen, aber nicht töten. Wenn sie keinen Kontakt aufnehmen, wird der Wanderer sie irgendwann entdecken. Ein Kontakt ist wichtig. Auf die eine oder andere Art wird der Wanderer mindestens die erste, aber möglicherweise auch mehr der folgenden Informationen preisgeben:*
@@ -39,7 +44,7 @@ Im Haus des Häuptlings. Es ist schimmriges Licht. Bier steht auf dem Tisch. Der
 
 *Die Helden haben folgende Optionen:*
 
-- *Sie können als Bauarbeiter anheuern, wenn Hermes sie empfielt. Nur der Berserker und der Leibwächter können anheuern, da die anderen zu schwach wirken.*
+- *Sie können als Bauarbeiter anheuern, wenn Hermes sie empfielt. Nur der Berserker und der Leibwächter können anheuern, da die anderen zu schwach wirken. Der Leibwächter kann unter Umständen auch als Soldat anheuern.*
 - *Sie können durchs geheime Tor einbrechen (wenn sie es kennen). Sie müssen unbemerkt bleiben, da die Festung jederzeit von 50 kampferfahrenen Soldaten bemannt wird.*
 - *Sie können die Aufmerksamkeit des Burgherren mit Zaubertricks auf sich ziehen. Er wird den Schamanen bitten die geheimen Dokumente zu entschlüsseln.*
 
