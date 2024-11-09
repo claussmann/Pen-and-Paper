@@ -48,4 +48,41 @@ An den Spuren erkennt man, dass der Einbrecher danach in die Kanalisation gefloh
 
 Die Helden treffen auf zwei Diebe, die sie sofort angreifen.
 Stirbt einer, wird der zweite versuchen zu fliehen.
-Der fliehende trägt eine Liste bei sich, auf der die gestohlenen Gegenstände des Königs aufgelistet sind. Sie sind abgehakt. Viele weitere Gegenstände stehen auf der Liste.
+Der fliehende trägt eine Liste bei sich, auf der die gestohlenen Gegenstände des Königs aufgelistet sind. Sie sind abgehakt.
+Viele weitere Gegenstände stehen auf der Liste.
+- Kronjuwel (Haken)
+- Armulett (Haken)
+- Bernstein von Sessing
+- Siegelring von Kar (Haken)
+- Einhorn-Haare
+- Pechstein
+- Kobold-Klinge von Nemison
+- Krähenfedern (Haken)
+- ...
+
+Außerdem finden die Helden bei dem anderen Dieb eine Karte der Kanalisation, wo ein Raum markiert ist.
+Dieser Raum word sich später als Lager der Diebe herausstellen.
+
+
+## Auf dem Weg zum Lager
+
+Die Helden begegnen immer wieder Dieben, tappen in Fallen oder treffen auf andere Düstere gestalten.
+- Stolperdrath: Löst einen Pfeil aus, wenn man drauf tritt.
+- Dieb: Meist in 2er oder 4er Gruppen unterwegs. Schlagen im Schutz der Dunkelheit zu.
+- Kanalwurm: Hat nichts mit den Dieben zu tun, aber wohnt in der Kanalisation und versucht alles zu fressen, was in der Nähe ist. Frisst teilweise auch die Diebe.
+- Magie-Lehrling: Kann nicht sehr gut zaubern, versucht sich aber an grausigen Zaubern. Gelegentlich geht ein Zauber auch mal schief.
+
+## Im Lager
+
+Die Helden finden schließlich das Lager in der Kanalisation.
+Es wird von einem Magier bewacht, sowie 4 Männern der Stadtwache.
+Es stellt sich heraus, dass der Magier die ganzen Gegenstände benutzen möchte, um die Herrschaft über die Stadt an sich zu reißen, den König zu stürzen und die Bürger mit Zaubern zu versklaven oder in Schrecken zu versetzen.
+Den Männern der Stadtwache hat er hohe Ämter im neuen Reich versprochen.
+Sie fühlen sich zudem vom König bei Beförderungen übergangen.
+
+Der Magier hat noch nicht alle Artefakte für seine Machtergreifung zusammen.
+Trotzdem verfügt er über starke Zauber, die er gegen die Helden einsetzt.
+Auch die 4 Leute der Stadtwache kämpfen hart gegen die Helden.
+
+
+
