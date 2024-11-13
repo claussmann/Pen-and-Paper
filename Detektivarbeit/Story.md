@@ -85,4 +85,5 @@ Trotzdem verfügt er über starke Zauber, die er gegen die Helden einsetzt.
 Auch die 4 Leute der Stadtwache kämpfen hart gegen die Helden.
 
 
-
+## TODO
+Irgendwas mit dem Sohn von Homer
