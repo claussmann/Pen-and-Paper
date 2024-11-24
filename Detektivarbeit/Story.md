@@ -135,4 +135,5 @@ Der Angriff erfolgt sobald die Helden gesehen werden.
 Die Krone des Königs liegt auf einem Tisch in der Mitte.
 
 
-
+## TODO
+Irgendwas mit dem Sohn von Homer
