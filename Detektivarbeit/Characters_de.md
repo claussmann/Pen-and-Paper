@@ -21,8 +21,7 @@ Homer hat einen unehelichen, erwachsenen Sohn namens Salvador, der bei seiner Mu
 Homer hat ihm stets Geld und viele Briefe geschickt.
 Der Sohn zug vor einem Jahr in Homers Stadt und macht eine Ausbildung beim Schmied.
 Eine krimminelle Vereinigung hat Salvadors Identität herausgefunden und hat vor wenigen Tagen Homer einen Drohbrief geschrieben in dem Sie drohen dem Jungen etwas anzutun wenn Homer sich nicht aus den "Angelegenheiten" der Stadt zurückzieht.
-Homer ist zwiegespalten.
-Er will seinen Sohn unter keinen Umständen gefährden, doch er will den Verbrechern auch nicht kleinbei geben.
+Homer will seinen Sohn unter keinen Umständen gefährden, doch er will den Verbrechern auch nicht kleinbei geben.
 
 ### Scores
 
@@ -65,7 +64,8 @@ Giovanni hat auf dem Schreibtisch von McBones einen Drohbrief von der Mafia gefu
 McBones solle sich aus den Angelegenheiten der Stadt zurückziehen, sonst würden Sie seinem Erben einen Besuch abstatten.
 Doch welcher Erbe?
 McBones hatte doch keine Familie.
-War am ende gar Giovanni mit der Drohung gemeint?
+War am Ende gar Giovanni mit der Drohung gemeint?
+Wird McBones der Drohung nachkommen und euer beider Prinzipien verraten?
 
 ### Scores
 
@@ -75,6 +75,7 @@ Hoch auf Intelligenz und Weisheit, mittel auf den Rest.
 
 - **Instinkt:** Manchmal hat Giovanni einfach so ein Gefühl. Wenn eine Gefahr droht, stellen sich Giovanni die Nackenhaare auf.
 - **Alchemie:** Giovanni hat viele Bücher über das Thema gelesen und ist in der Lage folgende Tränke zu brauen, sofern er die nötigen Zutaten hat: Heiltrank (Stellt 4 HP wieder her), Stärkungstrank (erhöht den Schaden für 5 Minuten um 1), Verwandlungstrank (verwandelt den Anwender für 30 min in eine beliebige Kreatur ähnlicher Größe, benötigt Blut von der Kreatur).
+- **Geheimsprachen:** Ob Latein, Altgriechisch oder Diebesrunen: Giovanni kann nahezu alle Sprachen lesen.
 
 ### Bewaffnung
 
@@ -103,8 +104,8 @@ Bei Ermittlungen übernimmt Gwendokai überwiegend die "Laborarbeit" hinter der 
 *Dieses Geheimnis weiß nur Gwendokai.*
 Gwendokai hat sich selbst in ihrer Jugend mit dunkler Magie beschäftigt.
 Der ein oder andere Zauber aus dieser Zeit ist ihr noch im Gedächtnis.
-Doch hat sie sich geschworen solche Zauber nie mehr anzuwenden.
-Durch ihr Wissen um dunkle Zauberei ist Gwendokai zudem bereits vor einiger Zeit aufgefallen, dass der Stein in der Krone des Königs -- das Feuerjuwel -- in Wirklichkeit ein magisches Artefakt aus alten Zeiten sein könnte.
+Doch weiß Sie um die Gefahren solcher Zauber.
+Durch dieses Wissen ist Gwendokai zudem bereits vor einiger Zeit aufgefallen, dass der Stein in der Krone des Königs -- das Feuerjuwel -- in Wirklichkeit ein magisches Artefakt aus alten Zeiten sein könnte.
 Sie vermutet, dass es aus dem Herzen eines versteinerten Drachen stammt und mächtige Feuerzauber wirken kann.
 
 ### Scores
@@ -113,13 +114,11 @@ Hoch auf Intelligenz und Geschicklichkeit, niedrig auf Stärke.
 
 ### Fähigkeiten
 
-- **Dunkler Zauber:** Dunkle Zauber sind besonders stark, aber auch besonders gefährlich. Gwendokai startet mit einem Dunkelheitswert (DW) von 1. Immer wenn Sie einen dunklen Zauber wirkt, würfelt sie 1d20. Ist der Würfelwert größer ihrem Dunkelheitswert, gelingt der Zauber und sie muss danach ihren Dunkelheitswert verdoppeln. Falls ihr Würfelwert kleiner oder gleich ihrem Dunkelheitswert ist, übernimmt die dunkle Seite in Gwendokai...
-- **Nekromantie (Dunkel):** Gwendokai erweckt eine tote Kreatur zum Leben. Die Kreatur gehorcht Gwendokai und lebt bis sie erneut getötet wird, oder bis das direkte Licht der Sonne sie trifft. Die Kreatur erhält die selben Lebens- Verteidigungs- und Angriffswerte wie zu Lebzeiten, kann allerdings weder Sprechen noch selbst Denken. Sie ist einzig durch die Befehle Gwendokais gesteuert. Die Lebenspunkte der Kreatur werden um den DW Gwendokais erhöht.
-- **Feuersturm (Dunkel):** Gwendokai erzeugt einen Feuersturm, der jeder Kreatur in einem 45 Grad Winkel und 20m Reichweite so viele d12 Feuerschaden zufügt, wie Gwendokais DW.
-- **Ausbluten (Dunkel):** Gwendokai zieht einem Gegner, den sie verwundet hat bis zu 1d10 + DW Leben ab und fügt sie sich selbst hinzu. Hat das Opfer weniger Leben, erhält Gwendokai such nur so viele Leben dazu, wie vorhanden.
+- **Dunkler Zauber:** Dunkle Zauber sind besonders mächtig. Gwendokai startet mit einem Dunkelheitswert (DW) von 1. Immer wenn Sie einen dunklen Zauber wirkt, würfelt sie 1d20. Ist der Würfelwert größer ihrem Dunkelheitswert, gelingt der Zauber und sie muss danach ihren Dunkelheitswert verdoppeln. Falls ihr Würfelwert kleiner oder gleich ihrem Dunkelheitswert ist, erhält Gwendokai neue dunkle Fähigkeiten, die aber auch neue Gefahren bergen.
+- **Nekromantie (Dunkel):** Gwendokai erweckt durch Berührung eine tote humanoide Kreatur zum Leben. Die Kreatur gehorcht Gwendokai und lebt bis sie erneut getötet wird, oder bis das direkte Licht der Sonne sie trifft, maximal jedoch 1 Stunde. Die Kreatur kann weder Sprechen noch selbst Denken. Sie ist einzig durch die Befehle Gwendokais gesteuert. Die Lebenspunkte der Kreatur entsprechen Gwendokais DW, die Angriffswerte entsprechen denen der Kreatur zu Lebzeiten.
+- **Ausbluten (Dunkel):** Gwendokai zieht einem Gegner, den sie verwundet hat bis zu 1d10 + DW Leben ab und fügt sie sich selbst hinzu. Hat das Opfer weniger Leben, erhält Gwendokai auch nur so viele Leben dazu, wie vorhanden.
 - **Blitze:** Gwendokai schießt einen magischen Blitz auf ein Opfer und erzeugt 1d8 + 2 Schaden.
 - **Heilen:** Gwendokai kann durch Handauflegen und Gebete binnen 1 Minute (auch im Kampf) bei einer anderen Kreatur bis zu 1/2 der verlorenen Lebenspunkte wiederherstellen. Sie kann das pro Tag bei derselben Kreatur nur ein mal tun.
-- **Enthüllen:** Gwendokai kann magische Felder und Fallen in der Nähe aufdecken. Den Zauber kann sie nur einmal täglich wirken.
 
 
 ### Bewaffnung
@@ -189,7 +188,7 @@ Der Legende nach fiel dieses Juwel als Sternschnuppe vom Himmel und die Gründer
 
 *Dieses Geheimnis kennt nur Grishka.*
 Grishka wurde in seiner Goldschmiede vor kurzem eine Halskette zum Kauf angeboten.
-Grishka hat die Kette sofort als die erkannt, die er im Auftrag des Königs für die Prinzessin vor einigen Jahren zu ihrem Namenstag angefertigt hat.
+Grishka hat die Kette sofort als die erkannt, die er im Auftrag des Königs für die Prinzessin vor einigen Jahren angefertigt hat.
 Grishka hat schon öfters Schmuck aus fragwürdigen Quellen angenommen.
 Dieser Handel war ihm allerdings doch zu heiß und er lehnte ab.
 Schließlich steht im Königreich auf Hehlerei eine langjährige Strafe im Verließ und er will sich nicht erwischen lassen.
@@ -201,7 +200,7 @@ Hoch auf Stärke, Ausdauer und Geschicklichkeit, Charisma niedrig, Rest mittel.
 
 ### Fähigkeiten
 
-- **Waffen Veredelung:** In einer Schmiede kann Grishka Waffen veredeln sofern er Silber zur Verfügung hat. Diese Waffen machen fortan 1 zusättlichen Schaden und können auch Geister verwunden.
+- **Waffen Veredelung:** In einer Schmiede kann Grishka Waffen veredeln sofern er Silber zur Verfügung hat. Diese Waffen machen fortan 1 zusätzlichen Schaden.
 - **Tunnelkrieger:** Im dunkeln und dämmrigen Licht kann Grishka gut sehen. In Tunneln und Höhlen kann er nicht überrascht werden und hat Vorteil im Kampf.
 - **Dicke Haut:** Beim ersten Mal wenn Grishka in einem Kampf Schaden bekommt, erhält er nur den halben Schaden.
 
